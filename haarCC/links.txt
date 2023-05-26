@@ -1,0 +1,3 @@
+OpenCV explanation and tutorial: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+medium article: https://medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d
+Download haar cascade classifiers: https://github.com/opencv/opencv/tree/master/data/haarcascades 
